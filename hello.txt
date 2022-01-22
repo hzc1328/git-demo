@@ -7,10 +7,7 @@ $ hello cc hello cc
 $ hellhello cc
 $ ho cc hello cc
 $ hello cc hello cc
-$ hello cc hello cc
-$ hello cc hello cc
-$ hello cc hello cc
-$ hello cc hello cc
+$ hello cc
 $ hello cc hello cc
 $ hello cc hello cc master test
 $ hello cc hello cc hot-fix test
