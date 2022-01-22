@@ -12,5 +12,5 @@ $ hello cc hello cc
 $ hello cc hello cc
 $ hello cc hello cc
 $ hello cc hello cc
-$ hello cc hello cc
+$ hello cc hello cc master test
 $ hello cc hello cc
